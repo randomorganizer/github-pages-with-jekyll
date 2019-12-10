@@ -1,3 +1,7 @@
+---
+title: "Corn Plucking 101"
+date: 2019-12-10
+---
 #How to pluck corn
 
 1. Husk corn
